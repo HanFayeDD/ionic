@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HanFayeDemo</string>
+    <string name="title_activity_main">HanFayeDemo</string>
+    <string name="package_name">com.HanFayeDemo</string>
+    <string name="custom_url_scheme">com.HanFayeDemo</string>
+</resources>
